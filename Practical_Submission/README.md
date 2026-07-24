@@ -19,4 +19,3 @@ This folder contains the 10 attempted JavaScript practical tasks for the Node & 
 
 - Each file is a standalone JavaScript program.
 - The task numbering is preserved exactly as assigned.
-- These files are intended for GitHub submission and final practical review.
